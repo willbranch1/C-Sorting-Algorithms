@@ -6,3 +6,8 @@ This project shows knowledge of sorting algorithms and pointers.
 - C
 - VSCode
 ## Example
+<p align="center">
+    <img alt="Example" width="75%" src="https://i.imgur.com/9wgAB2i.png"/>
+    <p align="center">Simple example of how the program works.</p>
+    <br>
+</p>
